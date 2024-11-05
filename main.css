@@ -1,0 +1,66 @@
+span{
+    background-color: yellow;
+}
+h2{
+    text-align: center;
+    border: solid 1px red;
+    background-color: rgb(210, 210, 245);
+    color: rgb(21, 21, 53);
+    border-radius:20px;
+}
+
+.black{
+    font-weight:bold;
+    background-color: white;
+}
+
+.green{
+    color: green;
+}
+.yellow{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+input{
+    background-color:rgb(161, 161, 241);
+    color: white;
+}
+table, th,td{
+    width: 500px;
+    border: 1px solid wheat;
+    border-collapse: collapse;
+    text-align: center;
+    height:10px;
+    width:1050px;
+}
+
+.red{
+    color: white;
+    background-color:red;
+    font-weight:bold;
+}
+.blue{
+    color: black;
+    background-color:blue;
+}
+.black{
+    color: white;
+    background-color:black;
+    font-weight: 10 ;
+}
+.dark{
+    font-weight: bolder;
+    background-color: white;
+}
+.submit{
+    border: none;
+    font-size: large;
+}
+.darkred{
+    color: red;
+    font-weight: bolder;
+}
+.darkgreen{
+    color: green;
+}
